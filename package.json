@@ -1,6 +1,6 @@
 {
   "name": "@zajno/common-web",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Zajno's re-usable utilities for JS/TS projects for Web",
   "author": "Zajno",
   "license": "MIT",
@@ -9,6 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Zajno/common-web.git"
   },
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Zajno/common-web/issues"
   },
@@ -27,7 +28,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^18.15.11",
-    "@zajno/common": "^2.0.12",
+    "@zajno/common": "^3.0.2",
     "@zajno/eslint-config": "^2.3.0",
     "cpy-cli": "^4.2.0",
     "eslint": "^8.38.0",
@@ -39,7 +40,7 @@
     "typescript": "^5.0.4"
   },
   "peerDependencies": {
-    "@zajno/common": "^2.0.5",
+    "@zajno/common": "^3",
     "tslib": "^2.4"
   },
   "files": [
