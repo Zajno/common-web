@@ -1,5 +1,9 @@
 # Zajno's Toolbox – Web
 
+Archived: moved to [Zajno/common-utils](https://github.com/Zajno/common-utils/tree/main/packages/common-web).
+
+---
+
 This library is an extension for [`@zajno/common`](https://github.com/Zajno/common-utils), which adds more tools for Web development (mostly based on browser features).
 
 All runtime dependencies are peer.
